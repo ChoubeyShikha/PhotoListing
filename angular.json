@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "photolisting"
+    }
+  },
+  "defaultProject": "photolisting",
+  "cli": {
+    "analytics": false
+  }
 }
